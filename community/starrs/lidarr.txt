@@ -1,0 +1,12 @@
+{
+	"name": "Lidarr",
+	"logo": "https://toys-arr.us/img/logo/lidarr.png",
+	"devs": "Qstick, ta264, Robin",
+	"website": "https://lidarr.audio/",
+	"github": "https://github.com/Lidarr/Lidarr",
+	"discord": "https://lidarr.audio/discord",
+	"reddit": "https://www.reddit.com/r/Lidarr",
+	"title": "Music Collector",
+	"description": "Lidarr is a music collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new tracks from your favorite artists and will grab, sort and rename them.",
+	"status": "good"
+}

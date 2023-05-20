@@ -1,0 +1,12 @@
+{
+	"name": "Readarr",
+	"logo": "https://toys-arr.us/img/logo/readarr.png",
+	"devs": "ta264, Qstick, nitsua, Robin",
+	"website": "https://readarr.com/",
+	"github": "https://github.com/Readarr/Readarr",
+	"discord": "https://readarr.com/discord",
+	"reddit": "https://www.reddit.com/r/Readarr",
+	"title": "Book Collector",
+	"description": "Readarr is an ebook and audiobook collection manager for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new books from your favorite authors and will grab, sort, and rename them.",
+	"status": "good"
+}

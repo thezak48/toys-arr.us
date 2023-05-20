@@ -1,0 +1,12 @@
+{
+	"name": "Prowlarr",
+	"logo": "https://toys-arr.us/img/logo/prowlarr.png",
+	"devs": "Qstick, nitsua, Robin",
+	"website": "https://prowlarr.com/",
+	"github": "https://github.com/Prowlarr/Prowlarr",
+	"discord": "https://prowlarr.com/discord",
+	"reddit": "https://www.reddit.com/r/prowlarr",
+	"title": "Aggregation",
+	"description": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps. Prowlarr supports management of both Torrent Trackers and Usenet Indexers.",
+	"status": "good"
+}

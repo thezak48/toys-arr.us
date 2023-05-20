@@ -1,0 +1,12 @@
+{
+	"name": "Toolbarr",
+	"logo": "img/logo/toolbarr.png",
+	"devs": "Captain",
+	"website": "",
+	"github": "https://github.com/Notifiarr/toolbarr",
+	"discord": "https://notifiarr.com/discord",
+	"reddit": "",
+	"title": "Mass Editor",
+	"description": "Provides a suite of utilities to fix problems with Starr applications. Toolbarr allows you to perform various actions against your Starr apps and their SQLite3 databases.",
+	"status": "good"
+}

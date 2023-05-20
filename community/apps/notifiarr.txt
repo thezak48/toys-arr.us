@@ -1,0 +1,12 @@
+{
+	"name": "Notifiarr",
+	"logo": "https://notifiarr.com/images/logo/notifiarr.png",
+	"devs": "nitsua, Captain",
+	"website": "https://notifiarr.com",
+	"github": "https://github.com/Notifiarr/notifiarr",
+	"discord": "https://notifiarr.com/discord",
+	"reddit": "",
+	"title": "Swiss Army Knife",
+	"description": "Ecosystem companion that ties notifications together for many things. Many automated features for working with the apps, making requests, etc",
+	"status": "good"
+}

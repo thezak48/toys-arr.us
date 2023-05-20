@@ -1,0 +1,12 @@
+{
+	"name": "Sonarr",
+	"logo": "https://toys-arr.us/img/logo/sonarr.png",
+	"devs": "markus101, taloth, Qstick",
+	"website": "https://sonarr.tv/",
+	"github": "https://github.com/Sonarr/Sonarr",
+	"discord": "https://discord.gg/M6BvZn5",
+	"reddit": "https://www.reddit.com/r/sonarr",
+	"title": "Series Collector",
+	"description": "Sonarr is a PVR for Usenet and BitTorrent users. It can monitor multiple RSS feeds for new episodes of your favorite shows and will grab, sort and rename them.",
+	"status": "good"
+}

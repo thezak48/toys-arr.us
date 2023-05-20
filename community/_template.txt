@@ -1,0 +1,12 @@
+{
+	"name": "",
+	"logo": "",
+	"devs": "",
+	"website": "",
+	"github": "",
+	"discord": "",
+	"reddit": "",
+	"title": "",
+	"description": "",
+	"status": ""
+}
