@@ -1,0 +1,12 @@
+{
+	"name": "Overseerr",
+	"logo": "https://github.com/sct/overseerr/blob/develop/public/logo_full.svg",
+	"devs": "sct",
+	"website": "https://overseerr.dev/",
+	"github": "https://github.com/sct/overseerr",
+	"discord": "https://discord.gg/overseerr",
+	"reddit": "",
+	"title": "Request management",
+	"description": "FOSS app for managing requests for your media library. Integrates with your existing services",
+	"status": "good"
+}
