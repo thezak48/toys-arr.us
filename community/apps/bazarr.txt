@@ -1,0 +1,12 @@
+{
+	"name": "Bazarr",
+	"logo": "https://wiki.bazarr.media/img/logo.png",
+	"devs": "morpheus65535",
+	"website": "https://bazarr.media/",
+	"github": "https://github.com/morpheus65535/bazarr",
+	"discord": "https://discord.com/invite/MH2e2eb",
+	"reddit": "",
+	"title": "Automates & manages subtitles",
+	"description": "Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everything for you.",
+	"status": "good"
+}

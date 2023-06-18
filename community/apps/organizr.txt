@@ -1,0 +1,12 @@
+{
+	"name": "Organizr",
+	"logo": "https://github.com/causefx/Organizr/raw/v2-develop/plugins/images/organizr/logo-wide.png",
+	"devs": "causefx",
+	"website": "https://organizr.app/",
+	"github": "https://github.com/causefx/Organizr",
+	"discord": "https://organizr.app/discord",
+	"reddit": "http://reddit.com/r/organizr",
+	"title": "HTPC/Homelab Services Organizer",
+	"description": "HTPC/Homelab Services Organizer - Written in PHP",
+	"status": "good"
+}

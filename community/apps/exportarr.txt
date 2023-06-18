@@ -1,0 +1,12 @@
+{
+	"name": "Exportarr",
+	"logo": "",
+	"devs": "onedr0p",
+	"website": "https://notifiarr.com",
+	"github": "https://github.com/onedr0p/exportarr",
+	"discord": "",
+	"reddit": "",
+	"title": "AIO Prometheus Exporter for Sonarr, Radarr or Lidarr",
+	"description": "AIO Prometheus Exporter for Sonarr, Radarr or Lidarr",
+	"status": "good"
+}

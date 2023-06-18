@@ -1,0 +1,12 @@
+{
+	"name": "Ombi",
+	"logo": "https://ombi.io/img/logo-orange-small.png",
+	"devs": "tidusjar",
+	"website": "http://ombi.io/",
+	"github": "https://github.com/Ombi-app/Ombi",
+	"discord": "https://discord.gg/Sa7wNWb",
+	"reddit": "",
+	"title": "Request management",
+	"description": "Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!",
+	"status": "good"
+}
